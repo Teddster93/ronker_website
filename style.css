@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    padding: 20px;
+}
+
+h1 {
+    color: #950909;
+}
+
+p {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.primary-btn {
+    background-color: #950909;
+    color: #ffffff;
+    border: #ffffff, solid 1px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+.primary-btn:hover {
+    background-color: #2980b9;
+}
+
+.link-btn {
+    background-color: #950909;
+    color: #ffffff;
+    border: #ffffff, solid 1px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+}
